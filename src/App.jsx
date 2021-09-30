@@ -9,7 +9,22 @@ import SearchIcon from "@material-ui/icons/Search"
 import ChatListItem from "./components/ChatListItem"
 
 export default function App(props) {
-   const [chatlist, setChatlist] = useState([{}, {}, {}, {}])
+   const [chatlist, setChatlist] = useState([
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+   ])
    return (
       <div className="app-window">
          <div className="sidebar">

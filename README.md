@@ -1,6 +1,7 @@
 # WhatsApp_Clone
 
-### This project is a training to improve my skills in web development
+### This project is a training to improve my skills in web development cloning the WhatsApp interface and some functionalities
+
 
 # Getting Started with Create React App
 

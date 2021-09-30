@@ -90,4 +90,5 @@ header {
 }
 
 .content-area {
+   flex: 1;
 }

@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/WhatsApp_Clone/static/css/main.23ab4bea.chunk.css",
-    "main.js": "/WhatsApp_Clone/static/js/main.b4b1fd1e.chunk.js",
-    "main.js.map": "/WhatsApp_Clone/static/js/main.b4b1fd1e.chunk.js.map",
+    "main.css": "/WhatsApp_Clone/static/css/main.fb6e5105.chunk.css",
+    "main.js": "/WhatsApp_Clone/static/js/main.85818af6.chunk.js",
+    "main.js.map": "/WhatsApp_Clone/static/js/main.85818af6.chunk.js.map",
     "runtime-main.js": "/WhatsApp_Clone/static/js/runtime-main.a1bb1c30.js",
     "runtime-main.js.map": "/WhatsApp_Clone/static/js/runtime-main.a1bb1c30.js.map",
-    "static/js/2.d0a26d4c.chunk.js": "/WhatsApp_Clone/static/js/2.d0a26d4c.chunk.js",
-    "static/js/2.d0a26d4c.chunk.js.map": "/WhatsApp_Clone/static/js/2.d0a26d4c.chunk.js.map",
+    "static/js/2.5bfb5193.chunk.js": "/WhatsApp_Clone/static/js/2.5bfb5193.chunk.js",
+    "static/js/2.5bfb5193.chunk.js.map": "/WhatsApp_Clone/static/js/2.5bfb5193.chunk.js.map",
     "index.html": "/WhatsApp_Clone/index.html",
-    "static/css/main.23ab4bea.chunk.css.map": "/WhatsApp_Clone/static/css/main.23ab4bea.chunk.css.map",
-    "static/js/2.d0a26d4c.chunk.js.LICENSE.txt": "/WhatsApp_Clone/static/js/2.d0a26d4c.chunk.js.LICENSE.txt"
+    "static/css/main.fb6e5105.chunk.css.map": "/WhatsApp_Clone/static/css/main.fb6e5105.chunk.css.map",
+    "static/js/2.5bfb5193.chunk.js.LICENSE.txt": "/WhatsApp_Clone/static/js/2.5bfb5193.chunk.js.LICENSE.txt",
+    "static/media/fotosintese.0a377368.jpeg": "/WhatsApp_Clone/static/media/fotosintese.0a377368.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.a1bb1c30.js",
-    "static/js/2.d0a26d4c.chunk.js",
-    "static/css/main.23ab4bea.chunk.css",
-    "static/js/main.b4b1fd1e.chunk.js"
+    "static/js/2.5bfb5193.chunk.js",
+    "static/css/main.fb6e5105.chunk.css",
+    "static/js/main.85818af6.chunk.js"
   ]
 }
